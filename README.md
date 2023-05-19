@@ -1,2 +1,3 @@
 # CodeClause-Contact-form-with-Captcha...
 #codeclause contact-form-with-captcha 
+A contact form with CAPTCHA is a web form that includes a verification mechanism known as CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart). It helps prevent automated bots from submitting the form and ensures that the form is submitted by a real human.
